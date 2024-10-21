@@ -16,6 +16,12 @@ To run the tests, the following will be needed:
   }
 ```
 
+### How to run (on Linux)
+
+* Add ``` { "test": "nyc jasmine" } ``` to the scripts section of the package-json file,
+* Type ``` npm test ``` on the terminal, and
+* Hit enter.
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,javascript,nodejs&theme=light"/>
